@@ -54,3 +54,5 @@ nnoremap <c-j> <c-w>j
 nnoremap <c-k> <c-w>k
 nnoremap <c-h> <c-w>h
 nnoremap <c-l> <c-w>l
+
+let g:ale_virtualtext_cursor = 'disabled'
