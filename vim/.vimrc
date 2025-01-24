@@ -33,6 +33,7 @@ set noerrorbells
 set novisualbell
 set number
 set scrolloff=40
+set timeoutlen=50
 
 let mapleader = ","
 let g:airline#extensions#tabline#formatter = 'default'
