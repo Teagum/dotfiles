@@ -32,7 +32,7 @@ set wildignore=*.o,*~,*.pyc,*/.git/*,*/.DS_Store
 set noerrorbells
 set novisualbell
 set number
-set scrolloff=999
+set scrolloff=40
 
 let mapleader = ","
 let g:airline#extensions#tabline#formatter = 'default'
