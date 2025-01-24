@@ -4,7 +4,7 @@ endif
 
 " General setup
 set encoding=utf8
-set ffs=mac,unix,dos
+set ffs=unix,mac,dos
 set secure
 set exrc
 set nocompatible
